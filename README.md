@@ -1,1 +1,1 @@
-# mynewproject
+# codegniter_new_project
